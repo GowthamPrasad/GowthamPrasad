@@ -14,6 +14,7 @@
 - 📧-gowthamsgp.11@gmail.com
 - LinkedIn : [Gowtham Prasad](https://www.linkedin.com/in/gowtham-prasad-s)
 
+<!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
